@@ -1,0 +1,182 @@
+[
+    {
+        "id": "portatil-01",
+        "titulo": "Anbernic RG351P",
+        "imagen": "./img/consolasPortatiles/consola-01-1.jpg",
+        "categoria": {
+            "nombre": "Consolas Portatiles",
+            "id": "portatiles"
+        },
+        "precio": 418900
+    },
+    {
+        "id": "portatil-02",
+        "titulo": "Powkyddy RGB30",
+        "imagen": "./img/consolasPortatiles/consola-02-2.jpg",
+        "categoria": {
+            "nombre": "Consolas Portatiles",
+            "id": "portatiles"
+        },
+        "precio": 545000
+    },
+    {
+        "id": "portatil-03",
+        "titulo": "Anbernic RG35XX plus",
+        "imagen": "./img/consolasPortatiles/consola-03-3.jpg",
+        "categoria": {
+            "nombre": "Consolas Portatiles",
+            "id": "portatiles"
+        },
+        "precio": 409000
+    },
+    {
+        "id": "portatil-04",
+        "titulo": "Miyoo Mini Plus",
+        "imagen": "./img/consolasPortatiles/consola-04-1.jpg",
+        "categoria": {
+            "nombre": "Consolas Portatiles",
+            "id": "portatiles"
+        },
+        "precio": 385000
+    },
+    {
+        "id": "portatil-05",
+        "titulo": "Anbernic RG35XX",
+        "imagen": "./img/consolasPortatiles/consola-04-4.jpg",
+        "categoria": {
+            "nombre": "Portatiles",
+            "id": "portatiles"
+        },
+        "precio": 345000
+    },
+    {
+        "id": "gamebox-01",
+        "titulo": "Gamebox T95",
+        "imagen": "./img/gameBox/gameBox-01.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 209000
+    },
+    {
+        "id": "gamebox-02",
+        "titulo": "Gamebox A95X",
+        "imagen": "./img/gameBox/gameBox-02.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 565000
+    },
+    {
+        "id": "gamebox-03",
+        "titulo": "Gamebox Fadist",
+        "imagen": "./img/gameBox/gameBox-03.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 385000
+    },
+    {
+        "id": "gamebox-04",
+        "titulo": "Gamebox X2 PRO",
+        "imagen": "./img/gameBox/gameBox-04.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 545000
+    },
+    {
+        "id": "gamebox-05",
+        "titulo": "Gamebox Beelink GT King",
+        "imagen": "./img/gameBox/gameBox-05.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 1185000
+    },
+    {
+        "id": "gamebox-06",
+        "titulo": "Gamebox Hyper Base",
+        "imagen": "./img/gameBox/gameBox-06.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 745000
+    },
+    {
+        "id": "gamebox-07",
+        "titulo": "GameStick X2",
+        "imagen": "./img/gameBox/gameBox-07.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "gamebox-08",
+        "titulo": "Gamebox Retro Monster",
+        "imagen": "./img/gameBox/gameBox-08.jpg",
+        "categoria": {
+            "nombre": "Gamebox",
+            "id": "gamebox"
+        },
+        "precio": 585000
+    },
+    {
+        "id": "accesorios-01",
+        "titulo": "Audífonos Binnune 2.4G",
+        "imagen": "./img/accesorios/accesorios-01.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-02",
+        "titulo": "Base Audífinos NewBee RGB",
+        "imagen": "./img/accesorios/accesorios-02.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-03",
+        "titulo": "Display LED Divoom RGB",
+        "imagen": "./img/accesorios/accesorios-03.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-04",
+        "titulo": "Letrero de NEON pared transparente",
+        "imagen": "./img/accesorios/accesorios-04.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-05",
+        "titulo": "Cojín alivio de Presion A-pce",
+        "imagen": "./img/accesorios/accesorios-05.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    }
+]
